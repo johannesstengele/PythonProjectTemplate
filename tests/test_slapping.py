@@ -46,7 +46,7 @@ def test_db_slap(db_conn):
 
 
 def test_print(capture_stdout):
-    print("hellox")
+    print("hello")
     assert capture_stdout["stdout"] == "hello\n"
 
 # def test_many_slaps():
