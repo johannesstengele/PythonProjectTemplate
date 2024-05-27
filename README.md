@@ -7,4 +7,4 @@ A starter project to show how to set up and use automated testing in Python.
 - Change metadata in setup.cfg.
 - pip install -e .  (project is installable, therefore pytest will also run now)
 
-[![Unit Tests Status](https://github.com/johannesstengele/PythonProjectTemplate/actions/workflows/tests.yml/badge.svg)](https://github.com/johannesstengele/PythonProjectTemplate/actions)
+[![Unit Tests Status](https://github.com/johannesstengele/PythonProjectTemplate/actions/workflows/tests.yml/badge.svg)](https://github.com/johannesstengele/PythonProjectTemplate/actions/workflows/tests.yml)
