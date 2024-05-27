@@ -7,4 +7,4 @@ A starter project to show how to set up and use automated testing in Python.
 - Change metadata in setup.cfg.
 - pip install -e .  (project is installable, therefore pytest will also run now)
 
-![Tests](https://github.com/mCodingLLC/SlapThatLikeButton-TestingStarterProject/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/johannesstengele/PythonProjectTemplate/actions/workflows/tests.yml/badge.svg)
